@@ -1,0 +1,12 @@
+.image-replacement,
+.ir {
+	overflow: hidden;
+	text-indent: 100%;
+	white-space: nowrap;
+}
+
+.rainbows {
+	min-height: 100px;
+
+	background: url("../images/rainbows.png") left top no-repeat transparent;
+}
